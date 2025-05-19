@@ -46,7 +46,7 @@ for i in range(n):
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/e374a937-28a1-43f0-bd09-7dff4bb4763c)
+![image](https://github.com/user-attachments/assets/68db8509-52ac-43df-9974-d77d2440e85c)
 
 
 

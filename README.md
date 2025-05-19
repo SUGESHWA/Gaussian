@@ -46,7 +46,10 @@ for i in range(n):
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/68db8509-52ac-43df-9974-d77d2440e85c)
+![image](https://github.com/user-attachments/assets/9db4f12b-92e7-4a0b-8c71-4f7b21894747)
+
+![image](https://github.com/user-attachments/assets/b0292840-6762-43ad-9d79-60949fca48e2)
+
 
 
 
